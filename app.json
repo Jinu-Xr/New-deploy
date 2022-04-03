@@ -76,8 +76,8 @@
             "required": true,
             "value": "https://chat.whatsapp.com/DNP9Fd1eWrjKz2DalRI2CX"
         },
-        "INBO_BLOCK": {
-            "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
+        "PM_BLOCK": {
+            "description": "Pm Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
             "required": true,
             "value": "false"
         },
